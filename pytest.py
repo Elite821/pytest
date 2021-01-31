@@ -1,2 +1,1 @@
-from mcpi.minecraft import Minecraft
-mc = Minecraft.create()
+lol = int(input("please die"))
