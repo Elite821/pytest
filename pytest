@@ -1,0 +1,2 @@
+from mcpi.Minecraft import minecraft
+mc = minecraft.getMinecraft()
